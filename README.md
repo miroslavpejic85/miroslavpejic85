@@ -2,7 +2,7 @@
 
 Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, an open-source ecosystem of powerful, privacy-focused **WebRTC solutions** for real-time communication 👋  
 
-![mirotalk](./assets/mirotalk.gif)
+[![mirotalk](./assets/mirotalk.gif)](https://docs.mirotalk.com "Learn more about MiroTalk")
 
 MiroTalk is trusted by developers, startups, and enterprises worldwide to build **secure video calls, meetings, and collaboration tools** — without vendor lock-in.
 
