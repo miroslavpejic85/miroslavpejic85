@@ -1,5 +1,5 @@
 
-# 🚀 MiroTalk WebRTC Ecosystem
+# 🚀 MiroTalk WebRTC
 
 Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)** — your home for open-source, privacy-focused **WebRTC solutions** for real-time communication.
 
@@ -11,7 +11,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 ## 📑 Table of Contents
 
-- [🚀 MiroTalk WebRTC Ecosystem](#-mirotalk-webrtc-ecosystem)
+- [🚀 MiroTalk WebRTC](#-mirotalk-webrtc)
 	- [📑 Table of Contents](#-table-of-contents)
 	- [✨ Features](#-features)
 	- [🔧 Core Projects](#-core-projects)
