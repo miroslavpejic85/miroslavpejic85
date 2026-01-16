@@ -1,6 +1,6 @@
 # 🚀 MiroTalk WebRTC
 
-Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, an open-source ecosystem of powerful, privacy-focused **WebRTC solutions** for real-time communication 👋  
+Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, an open-source ecosystem of powerful, privacy-focused **WebRTC solutions** for real-time communication. 
 
 [![mirotalk](./assets/mirotalk.gif)](https://docs.mirotalk.com "Learn more about MiroTalk")
 
