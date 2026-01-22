@@ -40,6 +40,9 @@ Explore our production-ready WebRTC platforms:
 - **[MiroTalk C2C](https://c2c.mirotalk.com)** — Cam-to-Cam WebRTC solution
 - **[MiroTalk BRO](https://bro.mirotalk.com)** — Broadcasting real-time communication
 - **[MiroTalk WEB](https://webrtc.mirotalk.com)** — WebRTC room schedulers
+  - User: `demo`
+  - Email: `demo@gmail.com`
+  - Password: `Demo@123`
 - **[MiroTalk CME](https://cme.mirotalk.com)** — Simple Click-to-call for instant communication
 - **[MiroTalk ADM](https://github.com/miroslavpejic85/mirotalk-admin)** — Admin & monitoring tools
 
