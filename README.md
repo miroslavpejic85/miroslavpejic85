@@ -102,6 +102,10 @@ Have questions, need help, or want to collaborate?
 
 ---
 
+<div align="center">
+
 _Made with ❤️ by [Miroslav Pejic](https://www.linkedin.com/in/miroslav-pejic-976a07101/) and the open source community._
+
+</div>
 
 ---
