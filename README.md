@@ -58,7 +58,7 @@ By sponsoring, you help:
 - 🛠 Maintain long-term open-source sustainability
 
 👉 **Support the project here:**  
-https://github.com/sponsors/miroslavpejic85
+**[https://github.com/sponsors/miroslavpejic85](https://github.com/sponsors/miroslavpejic85)**
 
 Every contribution makes a real impact — thank you for supporting open source!
 
@@ -75,7 +75,7 @@ If you are:
 - Deploying for **enterprise or client projects**
 
 👉 **Purchase a Regular or Extended (commercial) license on CodeCanyon:**  
-https://codecanyon.net/user/miroslavpejic85/portfolio
+**[https://codecanyon.net/user/miroslavpejic85/portfolio](https://codecanyon.net/user/miroslavpejic85/portfolio)**
 
 A license ensures:
 - ✅ Legal compliance
@@ -89,8 +89,8 @@ A license ensures:
 
 Have questions, need help, or want to collaborate?
 
-- 📧 **Email:** miroslav.pejic.85@gmail.com  
-- 💬 **Discord:** https://discord.gg/rgGYfeYW3N  
+- 📧 **Email:** **[miroslav.pejic.85@gmail.com](miroslav.pejic.85@gmail.com)**  
+- 💬 **Discord:** **[https://discord.gg/rgGYfeYW3N](https://discord.gg/rgGYfeYW3N)**  
 
 ---
 
@@ -101,7 +101,7 @@ Have questions, need help, or want to collaborate?
 
 <div align="center">
 
-_Made with ❤️ by [Miroslav Pejic](https://www.linkedin.com/in/miroslav-pejic-976a07101/) and the open source community._
+_Made with ❤️ by **[Miroslav Pejic](https://www.linkedin.com/in/miroslav-pejic-976a07101/)** and the open source community._
 
 </div>
 
