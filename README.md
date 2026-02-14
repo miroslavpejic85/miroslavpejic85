@@ -35,13 +35,13 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 Explore our production-ready WebRTC platforms:
 
-- **[MiroTalk SFU](https://sfu.mirotalk.com)** — Scalable video conferencing with Selective Forwarding Unit
-- **[MiroTalk P2P](https://p2p.mirotalk.com)** — Lightweight peer-to-peer video calls
-- **[MiroTalk C2C](https://c2c.mirotalk.com)** — Cam-to-Cam WebRTC solution
-- **[MiroTalk BRO](https://bro.mirotalk.com)** — Broadcasting real-time communication
-- **[MiroTalk WEB](https://webrtc.mirotalk.com)** — WebRTC room schedulers | User: `demo` | Email: `demo@gmail.com` | Password: `Demo@123` |
-- **[MiroTalk CME](https://cme.mirotalk.com)** — Simple Click-to-call for instant communication
-- **[MiroTalk ADM](https://github.com/miroslavpejic85/mirotalk-admin)** — Admin & monitoring tools
+- **[MiroTalk SFU](https://sfu.mirotalk.com)**: Scalable video conferencing with Selective Forwarding Unit
+- **[MiroTalk P2P](https://p2p.mirotalk.com)**: Lightweight peer-to-peer video calls
+- **[MiroTalk C2C](https://c2c.mirotalk.com)**: Cam-to-Cam WebRTC solution
+- **[MiroTalk BRO](https://bro.mirotalk.com)**: Broadcasting real-time communication
+- **[MiroTalk WEB](https://webrtc.mirotalk.com)**: WebRTC room schedulers | User: `demo` | Email: `demo@gmail.com` | Password: `Demo@123` |
+- **[MiroTalk CME](https://cme.mirotalk.com)**: Simple Click-to-call for instant communication
+- **[MiroTalk ADM](https://github.com/miroslavpejic85/mirotalk-admin)**: Admin & monitoring tools
 
 All projects are **self-hosted, customizable, and developer-friendly**.
 
