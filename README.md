@@ -1,7 +1,11 @@
 
 # 🚀 MiroTalk WebRTC
 
-Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)** — your home for open-source, privacy-focused **WebRTC solutions** for real-time communication.
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/miroslavpejic85?style=flat&logo=githubsponsors&label=Sponsors)](https://github.com/sponsors/miroslavpejic85)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rgGYfeYW3N)
+[![Docs](https://img.shields.io/badge/Docs-docs.mirotalk.com-blue?style=flat&logo=readthedocs)](https://docs.mirotalk.com)
+
+Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, your home for open-source, privacy-focused **WebRTC solutions** for real-time communication.
 
 [![mirotalk](./assets/mirotalk.gif)](https://docs.mirotalk.com "Learn more about MiroTalk")
 
@@ -14,6 +18,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 - [🚀 MiroTalk WebRTC](#-mirotalk-webrtc)
 	- [📑 Table of Contents](#-table-of-contents)
 	- [✨ Features](#-features)
+	- [📖 Quick Start](#-quick-start)
 	- [🔧 Core Projects](#-core-projects)
 	- [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
 	- [💼 Commercial License \& Professional Use](#-commercial-license--professional-use)
@@ -31,17 +36,27 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 ---
 
+## 📖 Quick Start
+
+Get up and running in minutes. Head to the **[MiroTalk Documentation](https://docs.mirotalk.com)** for installation guides, API references, and deployment options.
+
+---
+
 ## 🔧 Core Projects
 
 Explore our production-ready WebRTC platforms:
 
-- **[MiroTalk SFU](https://sfu.mirotalk.com)**: Scalable video conferencing with Selective Forwarding Unit
-- **[MiroTalk P2P](https://p2p.mirotalk.com)**: Lightweight peer-to-peer video calls
-- **[MiroTalk C2C](https://c2c.mirotalk.com)**: Cam-to-Cam WebRTC solution
-- **[MiroTalk BRO](https://bro.mirotalk.com)**: Broadcasting real-time communication
-- **[MiroTalk WEB](https://webrtc.mirotalk.com)**: WebRTC room schedulers | User: `demo` | Email: `demo@gmail.com` | Password: `Demo@123` |
-- **[MiroTalk CME](https://cme.mirotalk.com)**: Simple Click-to-call for instant communication
-- **[MiroTalk ADM](https://github.com/miroslavpejic85/mirotalk-admin)**: Admin & monitoring tools
+| Project | Description | Live Demo |
+| --- | --- | --- |
+| **MiroTalk SFU** | Scalable video conferencing (Selective Forwarding Unit) | [sfu.mirotalk.com](https://sfu.mirotalk.com) |
+| **MiroTalk P2P** | Lightweight peer-to-peer video calls | [p2p.mirotalk.com](https://p2p.mirotalk.com) |
+| **MiroTalk C2C** | Cam-to-Cam WebRTC solution | [c2c.mirotalk.com](https://c2c.mirotalk.com) |
+| **MiroTalk BRO** | Broadcasting real-time communication | [bro.mirotalk.com](https://bro.mirotalk.com) |
+| **MiroTalk WEB** | WebRTC room scheduler | [webrtc.mirotalk.com](https://webrtc.mirotalk.com) |
+| **MiroTalk CME** | Click-to-call for instant communication | [cme.mirotalk.com](https://cme.mirotalk.com) |
+| **MiroTalk ADM** | Admin & monitoring tools | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
+
+> **MiroTalk WEB demo credentials:** User: `demo` · Email: `demo@gmail.com` · Password: `Demo@123`
 
 All projects are **self-hosted, customizable, and developer-friendly**.
 
@@ -60,7 +75,7 @@ By sponsoring, you help:
 👉 **Support the project here:**  
 **[https://github.com/sponsors/miroslavpejic85](https://github.com/sponsors/miroslavpejic85)**
 
-Every contribution makes a real impact — thank you for supporting open source!
+Every contribution makes a real impact. Thank you for supporting open source!
 
 ---
 
@@ -89,20 +104,10 @@ A license ensures:
 
 Have questions, need help, or want to collaborate?
 
-- 📧 **Email:** **[miroslav.pejic.85@gmail.com](miroslav.pejic.85@gmail.com)**  
+- 📧 **Email:** **[miroslav.pejic.85@gmail.com](mailto:miroslav.pejic.85@gmail.com)**  
 - 💬 **Discord:** **[https://discord.gg/rgGYfeYW3N](https://discord.gg/rgGYfeYW3N)**  
 
 ---
 
 
 ⭐ **If MiroTalk helps your project, consider starring the repositories and sharing them with others!**
-
----
-
-<div align="center">
-
-_Made with ❤️ by **[Miroslav Pejic](https://www.linkedin.com/in/miroslav-pejic-976a07101/)** and the open source community._
-
-</div>
-
----
