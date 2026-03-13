@@ -13,6 +13,41 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 ---
 
+<details>
+<summary>📖 The Story Behind MiroTalk</summary>
+
+<br/>
+
+MiroTalk was born during the global pandemic, when video communication suddenly became part of everyday life. Like many people, I found myself relying on online meeting platforms to stay connected with friends, family, and collaborators.
+
+But something didn't feel right.
+
+Most of the available solutions were controlled by large companies, closed ecosystems where users had little control over their own data. Privacy often felt like an afterthought, and vendor lock-in made it difficult for individuals and organizations to truly own their communication infrastructure.
+
+That's when the idea for MiroTalk started to take shape.
+
+I wanted to create an alternative: a simple and powerful WebRTC platform that anyone could run on their own server. A tool that would be free, open, and privacy-first, without forcing users into proprietary ecosystems or hidden data collection.
+
+The goal was simple:
+
+- No vendor lock-in
+- Full control over your own data
+- Privacy by design
+- Open source and accessible to everyone
+
+And the name?
+
+Friends and colleagues have always called me "Miro." Since the project was about enabling people to communicate freely, the name came naturally: **Miro + Talk = MiroTalk**, a simple way to represent open communication built with a personal touch.
+
+What started as a small experiment during lockdown quickly grew into a project used by people around the world. Developers, educators, teams, and communities who believe communication tools should empower users, not control them.
+
+**MiroTalk is more than a video meeting platform.
+It's a small step toward a more open and decentralized web.**
+
+</details>
+
+---
+
 ## 📑 Table of Contents
 
 - [🚀 MiroTalk WebRTC](#-mirotalk-webrtc)
