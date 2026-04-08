@@ -96,6 +96,9 @@ If you are:
 👉 **Purchase a Regular or Extended (commercial) license on CodeCanyon:**  
 **[https://codecanyon.net/user/miroslavpejic85/portfolio](https://codecanyon.net/user/miroslavpejic85/portfolio)**
 
+👉 **Or get the complete ecosystem in one bundle:**  
+**[MiroTalk Ultimate Bundle](https://codecanyon.net/item/mirotalk-webrtc-ultimate-bundle-for-seamless-live-smart-communication/47976343)**
+
 A license ensures:
 - ✅ Legal compliance
 - 🔒 Long-term usage rights
