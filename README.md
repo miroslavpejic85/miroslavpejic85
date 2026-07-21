@@ -102,7 +102,9 @@ If you are:
 A license ensures:
 - ✅ Legal compliance
 - 🔒 Long-term usage rights
-- 🤝 Support the continued development of MiroTalk
+- 💰 **One-time payment** with lifetime updates
+- 🙌 Community and direct support included
+- 🤝 Helps sustain open-source development
 
 ---
 
