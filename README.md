@@ -26,6 +26,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 	- [🔧 Core Projects](#-core-projects)
 	- [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
 	- [💼 Commercial License \& Professional Use](#-commercial-license--professional-use)
+		- [🤝 Reselling \& Distribution](#-reselling--distribution)
 	- [📫 Get in Touch](#-get-in-touch)
 
 ---
@@ -105,6 +106,14 @@ A license ensures:
 - 💰 **One-time payment** with lifetime updates
 - 🙌 Community and direct support included
 - 🤝 Helps sustain open-source development
+
+---
+
+### 🤝 Reselling & Distribution
+
+If you plan to resell, redistribute, white-label, or include MiroTalk as part of your own commercial product or service, we can provide a dedicated commercial agreement tailored to your use case.
+
+📩 Contact us at miroslav.pejic.85@gmail.com to discuss the requirements and terms.
 
 ---
 
