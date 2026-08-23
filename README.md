@@ -61,8 +61,6 @@ Explore our production-ready WebRTC platforms:
 | **MiroTalk CME** | Click-to-call for instant communication | [Docs](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
 | **MiroTalk ADM** | Admin & monitoring tools | [Docs](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
 
-> **MiroTalk WEB demo credentials:** User: `demo` · Email: `demo@gmail.com` · Password: `Demo@123`
-
 All projects are **self-hosted, customizable, and developer-friendly**.
 
 ---
