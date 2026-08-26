@@ -15,7 +15,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 **Commercial license required when you need to keep your modifications private, build proprietary software, or sell MiroTalk-powered services.**
 
-**[Choose the right license](#-choose-your-license)**
+**[Choose the right license](#choose-your-license)**
 
 ---
 
@@ -31,7 +31,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 	- [📖 Quick Start](#-quick-start)
 	- [🔧 Core Projects](#-core-projects)
 	- [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
-	- [⚖️ Choose Your License](#️-choose-your-license)
+	- [⚖️ Choose Your License](#choose-your-license)
 		- [Get a Commercial License](#get-a-commercial-license)
 		- [🤝 Reselling \& Distribution](#-reselling--distribution)
 	- [📫 Get in Touch](#-get-in-touch)
@@ -89,6 +89,8 @@ Every contribution makes a real impact. Thank you for supporting open source!
 
 ---
 
+
+<a id="choose-your-license"></a>
 
 ## ⚖️ Choose Your License
 
