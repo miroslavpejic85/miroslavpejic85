@@ -11,6 +11,12 @@ Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, your home for open-
 
 MiroTalk empowers developers, startups, and enterprises to build **secure video calls, meetings, and collaboration tools** with no vendor lock-in.
 
+**MiroTalk is free for open-source/AGPL projects.**
+
+**Commercial license required when you need to keep your modifications private, build proprietary software, or sell MiroTalk-powered services.**
+
+**[Choose the right license](#-choose-your-license)**
+
 ---
 
 📖 **[The Story Behind MiroTalk](https://docs.mirotalk.com/story/)**
@@ -25,7 +31,8 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 	- [📖 Quick Start](#-quick-start)
 	- [🔧 Core Projects](#-core-projects)
 	- [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
-	- [💼 Commercial License \& Professional Use](#-commercial-license--professional-use)
+	- [⚖️ Choose Your License](#️-choose-your-license)
+		- [Get a Commercial License](#get-a-commercial-license)
 		- [🤝 Reselling \& Distribution](#-reselling--distribution)
 	- [📫 Get in Touch](#-get-in-touch)
 
@@ -33,7 +40,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 ## ✨ Features
 
-- **Open Source & Self-Hosted**: Full control, privacy, and flexibility.
+- **AGPLv3 & Self-Hosted**: Full control, privacy, and flexibility for projects that comply with the AGPL.
 - **Multiple WebRTC Platforms**: SFU, P2P, C2C, Broadcasting, Room Scheduling, and more.
 - **Scalable & Production-Ready**: Used by businesses worldwide.
 - **Customizable**: Developer-friendly APIs and easy integration.
@@ -61,7 +68,7 @@ Explore our production-ready WebRTC platforms:
 | **MiroTalk CME** | Click-to-call for instant communication | [Info](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
 | **MiroTalk ADM** | Admin & monitoring tools | [Info](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
 
-All projects are **self-hosted, customizable, and developer-friendly**.
+All projects are **self-hosted, customizable, and developer-friendly**, with AGPLv3 and commercial licensing options.
 
 ---
 
@@ -83,16 +90,28 @@ Every contribution makes a real impact. Thank you for supporting open source!
 ---
 
 
-## 💼 Commercial License & Professional Use
+## ⚖️ Choose Your License
 
-MiroTalk is open source, but **commercial or closed-source usage requires a paid license**.
+**MiroTalk is free for open-source/AGPL projects.**
 
-If you are:
-- Building a **commercial product**
-- Using MiroTalk in a **private or proprietary system**
-- Deploying for **enterprise or client projects**
+**Commercial license required when you need to keep your modifications private, build proprietary software, or sell MiroTalk-powered services.**
 
-👉 **Purchase a Regular or Extended (commercial) license on CodeCanyon:**  
+| **FREE** | **COMMERCIAL** |
+| --- | --- |
+| **AGPLv3** | **Paid license** |
+| Open-source projects | Proprietary software |
+| Projects willing to comply with AGPL | SaaS |
+| Experimentation | White-label applications |
+| Internal evaluation | Client projects |
+|  | Closed-source modifications |
+|  | Commercial deployments |
+
+### Get a Commercial License
+
+Keep your code private and bring MiroTalk to market under a commercial license.
+
+👉 **Purchase a Regular or Extended license on CodeCanyon:**
+
 **[https://codecanyon.net/user/miroslavpejic85/portfolio](https://codecanyon.net/user/miroslavpejic85/portfolio)**
 
 👉 **Or get the complete ecosystem in one bundle:**  
@@ -109,7 +128,7 @@ A license ensures:
 
 ### 🤝 Reselling & Distribution
 
-If you plan to resell, redistribute, white-label, or include MiroTalk as part of your own commercial product or service, we can provide a dedicated commercial agreement tailored to your use case.
+If you plan to resell, redistribute, white-label, or include MiroTalk in your own proprietary product or paid service, you need a commercial license. We can provide a dedicated agreement tailored to your use case.
 
 📩 Contact us at miroslav.pejic.85@gmail.com to discuss the requirements and terms.
 
