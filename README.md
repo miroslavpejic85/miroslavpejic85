@@ -9,11 +9,7 @@ Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, your home for open-
 
 [![mirotalk](./assets/mirotalk.gif)](https://docs.mirotalk.com "Learn more about MiroTalk")
 
-MiroTalk empowers developers, startups, and enterprises to build **secure video calls, meetings, and collaboration tools** with no vendor lock-in.
-
-**MiroTalk is free for open-source/AGPL projects.**
-
-**Commercial license required when you need to keep your modifications private, build proprietary software, or sell MiroTalk-powered services.**
+MiroTalk empowers developers, startups, and enterprises to build **secure video calls, meetings, and collaboration tools** with no vendor lock-in. **MiroTalk is free for open-source/AGPL projects.** **Commercial license required when you need to keep your modifications private, build proprietary software, or sell MiroTalk-powered services.**
 
 **[Choose the right license](#choose-your-license)**
 
@@ -31,7 +27,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 	- [📖 Quick Start](#-quick-start)
 	- [🔧 Core Projects](#-core-projects)
 	- [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
-	- [⚖️ Choose Your License](#choose-your-license)
+	- [⚖️ Choose Your License](#️-choose-your-license)
 		- [Get a Commercial License](#get-a-commercial-license)
 		- [🤝 Reselling \& Distribution](#-reselling--distribution)
 	- [📫 Get in Touch](#-get-in-touch)
