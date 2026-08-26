@@ -88,9 +88,7 @@ Every contribution makes a real impact. Thank you for supporting open source!
 
 ## ⚖️ Choose Your License
 
-**MiroTalk is available under AGPLv3 for open-source projects and projects that comply with AGPLv3.**
-
-**If you need to keep your modifications private, build proprietary or closed-source software, or offer MiroTalk-powered services without AGPLv3 obligations, you need a commercial license.**
+**MiroTalk is free under AGPLv3 when you comply with the AGPLv3 requirements. Choose a commercial license when you need proprietary/closed-source use, private modifications, white-label distribution, or licensing terms that differ from AGPLv3.**
 
 | **FREE** | **COMMERCIAL** |
 | --- | --- |
