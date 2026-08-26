@@ -53,13 +53,13 @@ Explore our production-ready WebRTC platforms:
 
 | Project | Description | About | Live Demo |
 | --- | --- | --- | --- |
-| **MiroTalk SFU** | Scalable video conferencing (Selective Forwarding Unit) | [Docs](https://docs.mirotalk.com/mirotalk-sfu/) | [sfu.mirotalk.com](https://sfu.mirotalk.com) |
-| **MiroTalk P2P** | Lightweight peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-p2p/) | [p2p.mirotalk.com](https://p2p.mirotalk.com) |
-| **MiroTalk C2C** | Cam-to-Cam WebRTC solution | [Docs](https://docs.mirotalk.com/mirotalk-c2c/) | [c2c.mirotalk.com](https://c2c.mirotalk.com) |
-| **MiroTalk BRO** | Broadcasting real-time communication | [Docs](https://docs.mirotalk.com/mirotalk-bro/) | [bro.mirotalk.com](https://bro.mirotalk.com) |
-| **MiroTalk WEB** | WebRTC room scheduler | [Docs](https://docs.mirotalk.com/mirotalk-web/) | [webrtc.mirotalk.com](https://webrtc.mirotalk.com) |
-| **MiroTalk CME** | Click-to-call for instant communication | [Docs](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
-| **MiroTalk ADM** | Admin & monitoring tools | [Docs](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
+| **MiroTalk SFU** | Scalable video conferencing (Selective Forwarding Unit) | [Info](https://docs.mirotalk.com/mirotalk-sfu/) | [sfu.mirotalk.com](https://sfu.mirotalk.com) |
+| **MiroTalk P2P** | Lightweight peer-to-peer video calls | [Info](https://docs.mirotalk.com/mirotalk-p2p/) | [p2p.mirotalk.com](https://p2p.mirotalk.com) |
+| **MiroTalk C2C** | Cam-to-Cam WebRTC solution | [Info](https://docs.mirotalk.com/mirotalk-c2c/) | [c2c.mirotalk.com](https://c2c.mirotalk.com) |
+| **MiroTalk BRO** | Broadcasting real-time communication | [Info](https://docs.mirotalk.com/mirotalk-bro/) | [bro.mirotalk.com](https://bro.mirotalk.com) |
+| **MiroTalk WEB** | WebRTC room scheduler | [Info](https://docs.mirotalk.com/mirotalk-web/) | [webrtc.mirotalk.com](https://webrtc.mirotalk.com) |
+| **MiroTalk CME** | Click-to-call for instant communication | [Info](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
+| **MiroTalk ADM** | Admin & monitoring tools | [Info](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
 
 All projects are **self-hosted, customizable, and developer-friendly**.
 
