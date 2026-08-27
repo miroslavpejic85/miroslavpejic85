@@ -9,7 +9,7 @@ Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, your home for open-
 
 [![mirotalk](./assets/mirotalk.gif)](https://docs.mirotalk.com "Learn more about MiroTalk")
 
-MiroTalk empowers developers, startups, and enterprises to build **secure video calls, meetings, and collaboration tools** with no vendor lock-in. Available under **AGPLv3**, or a **commercial license** if you need private modifications or closed-source use → **[Choose your license](#choose-your-license)**
+MiroTalk empowers developers, startups, and enterprises to build **secure video calls, meetings, and collaboration tools** with no vendor lock-in. Available under **[AGPLv3](https://www.gnu.org/licenses/why-affero-gpl.html)**, or a **commercial license** if you need private modifications or closed-source use → **[Choose your license](#choose-your-license)**
 
 ---
 
