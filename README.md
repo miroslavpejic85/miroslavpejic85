@@ -9,7 +9,7 @@ Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, your home for open-
 
 [![mirotalk](./assets/mirotalk.gif)](https://docs.mirotalk.com "Learn more about MiroTalk")
 
-MiroTalk empowers developers, startups, and enterprises to build **secure video calls, meetings, and collaboration tools** with no vendor lock-in. **MiroTalk is available under AGPLv3 for open-source projects and projects that comply with AGPLv3.** **If you need to keep your modifications private, build proprietary or closed-source software, or offer MiroTalk-powered services without AGPLv3 obligations, you need a commercial license: [Choose the right license](#choose-your-license)**
+MiroTalk empowers developers, startups, and enterprises to build **secure video calls, meetings, and collaboration tools** with no vendor lock-in. Available under **AGPLv3**, or a **commercial license** if you need private modifications or closed-source use → **[Choose your license](#choose-your-license)**
 
 ---
 
@@ -88,17 +88,13 @@ Every contribution makes a real impact. Thank you for supporting open source!
 
 ## ⚖️ Choose Your License
 
-**MiroTalk is free under AGPLv3 when you comply with the AGPLv3 requirements. Choose a commercial license when you need proprietary/closed-source use, private modifications, white-label distribution, or licensing terms that differ from AGPLv3.**
-
 | **FREE** | **COMMERCIAL** |
 | --- | --- |
 | **AGPLv3** | **Paid license** |
 | Open-source projects | Proprietary software |
-| Projects willing to comply with AGPLv3 | SaaS |
-| Experimentation | White-label applications |
-| Internal evaluation | Client projects |
-|  | Closed-source modifications |
-|  | Commercial deployments |
+| **Modifications must be public** | Closed-source modifications |
+| Self-hosted / internal evaluation | SaaS & commercial deployments |
+| Experimentation | White-label / client projects |
 
 ### Get a Commercial License
 
