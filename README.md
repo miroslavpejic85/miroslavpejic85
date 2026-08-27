@@ -20,7 +20,6 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 ## 📑 Table of Contents
 
 - [🚀 MiroTalk WebRTC](#-mirotalk-webrtc)
-	- [📑 Table of Contents](#-table-of-contents)
 	- [✨ Features](#-features)
 	- [📖 Quick Start](#-quick-start)
 	- [🔧 Core Projects](#-core-projects)
@@ -62,7 +61,7 @@ Explore our production-ready WebRTC platforms:
 | **MiroTalk WEB** | WebRTC room scheduler | [Info](https://docs.mirotalk.com/mirotalk-web/) | [webrtc.mirotalk.com](https://webrtc.mirotalk.com) |
 | **MiroTalk ADM** | Admin & monitoring tools | [Info](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
 
-All projects are **self-hosted, customizable, and developer-friendly**, with AGPLv3 and commercial licensing options.
+All projects are **self-hosted and customizable**, available under **AGPLv3 or a commercial license**.
 
 ---
 
@@ -105,7 +104,6 @@ Every contribution makes a real impact. Thank you for supporting open source!
 Keep your code private and bring MiroTalk to market under a commercial license.
 
 👉 **Purchase a Regular or Extended license on CodeCanyon:**
-
 **[https://codecanyon.net/user/miroslavpejic85/portfolio](https://codecanyon.net/user/miroslavpejic85/portfolio)**
 
 👉 **Or get the complete ecosystem in one bundle:**  
