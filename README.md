@@ -17,10 +17,9 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Contents <!-- omit in toc -->
 
 - [🚀 MiroTalk WebRTC](#-mirotalk-webrtc)
-	- [📑 Table of Contents](#-table-of-contents)
 	- [✨ Features](#-features)
 	- [📖 Quick Start](#-quick-start)
 	- [🔧 Core Projects](#-core-projects)
