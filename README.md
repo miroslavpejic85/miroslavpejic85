@@ -89,7 +89,7 @@ Every contribution makes a real impact. Thank you for supporting open source!
 
 | **FREE** | **COMMERCIAL** |
 | --- | --- |
-| **AGPLv3** | **Paid license** |
+| **[AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)** | **Paid license** |
 | Open-source projects | Proprietary software |
 | **Modifications must be public** | Closed-source modifications |
 | Self-hosted / internal evaluation | SaaS & commercial deployments |
