@@ -116,9 +116,7 @@ A license ensures:
 
 ### 🤝 Reselling & Distribution
 
-If you plan to resell, redistribute, white-label, or include MiroTalk in your own proprietary product or paid service, you need a **custom license**. We can provide a **dedicated agreement** tailored to your use case.
-
-📩 Contact us at miroslav.pejic.85@gmail.com to discuss the requirements and terms.
+If you plan to resell, redistribute, white-label, or include MiroTalk in your own proprietary product or paid service, you need a **custom license**. We can provide a **dedicated agreement** tailored to your use case. **Contact us** to discuss the requirements and terms.
 
 ---
 
