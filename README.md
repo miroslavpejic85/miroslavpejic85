@@ -61,7 +61,7 @@ Not sure which solution fits your needs? **[Compare all MiroTalk projects](https
 | **[MiroTalk CME](https://docs.mirotalk.com/sites/cme.html)** | Click-to-call for instant communication | [Docs](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
 | **[MiroTalk BRO](https://docs.mirotalk.com/sites/bro.html)** | Broadcasting real-time communication | [Docs](https://docs.mirotalk.com/mirotalk-bro/) | [bro.mirotalk.com](https://bro.mirotalk.com) |
 | **[MiroTalk WEB](https://docs.mirotalk.com/sites/web.html)** | WebRTC room scheduler | [Docs](https://docs.mirotalk.com/mirotalk-web/) | [webrtc.mirotalk.com](https://webrtc.mirotalk.com) |
-| **MiroTalk ADM** | Admin & monitoring tools | [Docs](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
+| **[MiroTalk ADM](https://docs.mirotalk.com/sites/admin.html)** | Admin & monitoring tools | [Docs](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
 
 All projects are **self-hosted and customizable**, available under **AGPLv3 or a commercial license**.
 
