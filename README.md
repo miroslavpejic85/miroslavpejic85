@@ -134,3 +134,20 @@ Have questions, need help, or want to collaborate?
 
 
 ⭐ **If MiroTalk helps your project, consider starring the repositories and sharing them with others!**
+
+---
+
+<p align="center">
+	<sub>PROUDLY SPONSORED BY</sub>
+</p>
+
+<p align="center">
+	<a href="https://www.recall.ai/?utm_source=github&amp;utm_medium=sponsorship&amp;utm_campaign=mirotalksfu">
+		<img src="https://img.shields.io/badge/Recall.ai-API_for_meeting_recording-4B5563?style=for-the-badge&amp;labelColor=0564FF" alt="Recall.ai — API for meeting recording">
+	</a>
+</p>
+
+<p align="center">
+	Record Zoom, Google Meet, Microsoft Teams, and in-person meetings with one API.<br>
+	<a href="https://www.recall.ai/?utm_source=github&amp;utm_medium=sponsorship&amp;utm_campaign=mirotalksfu"><strong>Explore Recall.ai →</strong></a>
+</p>
