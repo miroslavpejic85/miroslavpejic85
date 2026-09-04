@@ -51,17 +51,17 @@ Get up and running in minutes. Head to the **[MiroTalk Documentation](https://do
 
 Explore our production-ready WebRTC platforms:
 
-Not sure which solution fits your needs? **[Compare all MiroTalk projects](https://docs.mirotalk.com/sites/projects.html)**.
+Not sure which solution fits your needs? **[Compare all MiroTalk projects](https://docs.mirotalk.com/sites/projects)**.
 
 | Project | Description | Documentation | Live Demo |
 | --- | --- | --- | --- |
-| **[MiroTalk SFU](https://docs.mirotalk.com/sites/sfu.html)** | Scalable video conferencing (Selective Forwarding Unit) | [Docs](https://docs.mirotalk.com/mirotalk-sfu/) | [sfu.mirotalk.com](https://sfu.mirotalk.com) |
-| **[MiroTalk P2P](https://docs.mirotalk.com/sites/p2p.html)** | Lightweight peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-p2p/) | [p2p.mirotalk.com](https://p2p.mirotalk.com) |
-| **[MiroTalk C2C](https://docs.mirotalk.com/sites/c2c.html)** | Cam-to-Cam WebRTC solution | [Docs](https://docs.mirotalk.com/mirotalk-c2c/) | [c2c.mirotalk.com](https://c2c.mirotalk.com) |
-| **[MiroTalk CME](https://docs.mirotalk.com/sites/cme.html)** | Click-to-call for instant communication | [Docs](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
-| **[MiroTalk BRO](https://docs.mirotalk.com/sites/bro.html)** | Broadcasting real-time communication | [Docs](https://docs.mirotalk.com/mirotalk-bro/) | [bro.mirotalk.com](https://bro.mirotalk.com) |
-| **[MiroTalk WEB](https://docs.mirotalk.com/sites/web.html)** | WebRTC room scheduler | [Docs](https://docs.mirotalk.com/mirotalk-web/) | [webrtc.mirotalk.com](https://webrtc.mirotalk.com) |
-| **[MiroTalk ADM](https://docs.mirotalk.com/sites/admin.html)** | Admin & monitoring tools | [Docs](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
+| **[MiroTalk SFU](https://docs.mirotalk.com/sites/sfu)** | Scalable video conferencing (Selective Forwarding Unit) | [Docs](https://docs.mirotalk.com/mirotalk-sfu/) | [sfu.mirotalk.com](https://sfu.mirotalk.com) |
+| **[MiroTalk P2P](https://docs.mirotalk.com/sites/p2p)** | Lightweight peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-p2p/) | [p2p.mirotalk.com](https://p2p.mirotalk.com) |
+| **[MiroTalk C2C](https://docs.mirotalk.com/sites/c2c)** | Cam-to-Cam WebRTC solution | [Docs](https://docs.mirotalk.com/mirotalk-c2c/) | [c2c.mirotalk.com](https://c2c.mirotalk.com) |
+| **[MiroTalk CME](https://docs.mirotalk.com/sites/cme)** | Click-to-call for instant communication | [Docs](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
+| **[MiroTalk BRO](https://docs.mirotalk.com/sites/bro)** | Broadcasting real-time communication | [Docs](https://docs.mirotalk.com/mirotalk-bro/) | [bro.mirotalk.com](https://bro.mirotalk.com) |
+| **[MiroTalk WEB](https://docs.mirotalk.com/sites/web)** | WebRTC room scheduler | [Docs](https://docs.mirotalk.com/mirotalk-web/) | [webrtc.mirotalk.com](https://webrtc.mirotalk.com) |
+| **[MiroTalk ADM](https://docs.mirotalk.com/sites/admin)** | Admin & monitoring tools | [Docs](https://docs.mirotalk.com/mirotalk-admin/) | [GitHub](https://github.com/miroslavpejic85/mirotalk-admin) |
 
 All projects are **self-hosted and customizable**, available under **AGPLv3 or a commercial license**.
 
@@ -105,7 +105,7 @@ Keep your code private and bring MiroTalk to market under a commercial license.
 **[https://codecanyon.net/user/miroslavpejic85/portfolio](https://codecanyon.net/user/miroslavpejic85/portfolio)**
 
 👉 **Or get the complete ecosystem in one bundle:**  
-**[MiroTalk Ultimate Bundle](https://docs.mirotalk.com/sites/ultimate.html)** — all MiroTalk applications in one package.
+**[MiroTalk Ultimate Bundle](https://docs.mirotalk.com/sites/ultimate)** — all MiroTalk applications in one package.
 
 A license ensures:
 - ✅ Legal compliance
