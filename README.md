@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rgGYfeYW3N)
 [![Docs](https://img.shields.io/badge/Docs-docs.mirotalk.com-blue?style=flat&logo=readthedocs)](https://docs.mirotalk.com)
 
-Welcome to **[MiroTalk](https://docs.mirotalk.com/about/)**, your home for open-source, privacy-focused **WebRTC solutions** for real-time communication.
+Welcome to **[MiroTalk](https://docs.mirotalk.com/sites/projects/)**, your home for open-source, privacy-focused **WebRTC solutions** for real-time communication.
 
 [![mirotalk](./assets/mirotalk.gif)](https://docs.mirotalk.com "Learn more about MiroTalk")
 
