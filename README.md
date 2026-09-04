@@ -13,7 +13,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 
 ---
 
-📖 **[The Story Behind MiroTalk](https://docs.mirotalk.com/story/)**
+📖 **[The Story Behind MiroTalk](https://docs.mirotalk.com/sites/story/)**
 
 ---
 
