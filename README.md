@@ -101,8 +101,8 @@ Every contribution makes a real impact. Thank you for supporting open source!
 
 Keep your code private and bring MiroTalk to market under a commercial license.
 
-👉 **Purchase a Regular or Extended license on CodeCanyon:**  
-**[https://codecanyon.net/user/miroslavpejic85/portfolio](https://codecanyon.net/user/miroslavpejic85/portfolio)**
+👉 **Purchase a Regular or Extended license:**  
+**[https://docs.mirotalk.com/sites/projects/](https://docs.mirotalk.com/sites/projects/)**
 
 👉 **Or get the complete ecosystem in one bundle:**  
 **[MiroTalk Ultimate Bundle](https://docs.mirotalk.com/sites/ultimate)** — all MiroTalk applications in one package.
