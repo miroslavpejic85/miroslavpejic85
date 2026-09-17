@@ -73,6 +73,7 @@ All projects are **self-hosted and customizable**, available under **AGPLv3 or a
 MiroTalk is actively maintained and improved by the community.  
 By sponsoring, you help:
 
+- ❤️ Keep MiroTalk open source and accessible to everyone
 - 🚀 Accelerate new features
 - 🔐 Improve security and stability
 - 🛠 Maintain long-term open-source sustainability
