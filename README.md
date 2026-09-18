@@ -113,7 +113,7 @@ A license ensures:
 - 🔒 Long-term usage rights
 - 💰 **One-time payment** with lifetime updates
 - 🙌 Community and direct support included
-- 🤝 Helps sustain open-source development
+- 🎨 Rebrand MiroTalk to match your business
 
 ---
 
