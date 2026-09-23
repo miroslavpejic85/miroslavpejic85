@@ -22,6 +22,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 - [🚀 MiroTalk WebRTC](#-mirotalk-webrtc)
 	- [✨ Features](#-features)
 	- [📖 Quick Start](#-quick-start)
+	- [☁️ Managed Cloud](#️-managed-cloud)
 	- [🔧 Core Projects](#-core-projects)
 	- [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
 	- [⚖️ Choose Your License](#️-choose-your-license)
@@ -44,6 +45,16 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 ## 📖 Quick Start
 
 Get up and running in minutes. Head to the **[MiroTalk Documentation](https://docs.mirotalk.com)** for installation guides, API references, and deployment options.
+
+---
+
+## ☁️ Managed Cloud
+
+Prefer a hosted solution? **[MiroTalk Cloud](https://cloud.mirotalk.com)** provides secure, browser-based meetings without server setup or maintenance. Schedule rooms, invite participants with a link, and start meetings directly from your browser.
+
+[![MiroTalk Cloud dashboard on desktop and mobile](./assets/mirotalk-cloud.png)](https://cloud.mirotalk.com "Try MiroTalk Cloud")
+
+👉 **[Start free](https://cloud.mirotalk.com)** · **[View pricing](https://cloud.mirotalk.com/pricing)**
 
 ---
 
