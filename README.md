@@ -1,4 +1,6 @@
 
+<!-- markdownlint-disable MD013 MD033 -->
+
 # 🚀 MiroTalk WebRTC
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/miroslavpejic85?style=flat&logo=githubsponsors&label=Sponsors)](https://github.com/sponsors/miroslavpejic85)
@@ -20,15 +22,15 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
 ## 📑 Table of Contents <!-- omit in toc -->
 
 - [🚀 MiroTalk WebRTC](#-mirotalk-webrtc)
-	- [✨ Features](#-features)
-	- [📖 Quick Start](#-quick-start)
-	- [☁️ Managed Cloud](#️-managed-cloud)
-	- [🔧 Core Projects](#-core-projects)
-	- [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
-	- [⚖️ Choose Your License](#️-choose-your-license)
-		- [Get a Commercial License](#get-a-commercial-license)
-		- [🤝 Reselling \& Distribution](#-reselling--distribution)
-	- [📫 Get in Touch](#-get-in-touch)
+  - [✨ Features](#-features)
+  - [📖 Quick Start](#-quick-start)
+  - [☁️ Managed Cloud](#️-managed-cloud)
+  - [🔧 Core Projects](#-core-projects)
+  - [❤️ Support MiroTalk (Become a Sponsor)](#️-support-mirotalk-become-a-sponsor)
+  - [⚖️ Choose Your License](#️-choose-your-license)
+    - [Get a Commercial License](#get-a-commercial-license)
+    - [🤝 Reselling \& Distribution](#-reselling--distribution)
+  - [📫 Get in Touch](#-get-in-touch)
 
 ---
 
@@ -68,7 +70,7 @@ Not sure which solution fits your needs? **[Compare all MiroTalk projects](https
 | --- | --- | --- | --- |
 | **[MiroTalk SFU](https://docs.mirotalk.com/sites/sfu)** | Scalable video conferencing (Selective Forwarding Unit) | [Docs](https://docs.mirotalk.com/mirotalk-sfu/) | [sfu.mirotalk.com](https://sfu.mirotalk.com) |
 | **[MiroTalk P2P](https://docs.mirotalk.com/sites/p2p)** | Lightweight peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-p2p/) | [p2p.mirotalk.com](https://p2p.mirotalk.com) |
-| **[MiroTalk RND](https://docs.mirotalk.com/sites/rnd)** | Lightweight random peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-rnd/) | [rnd.mirotalk.com](https://rnd.mirotalk.com) |
+| **[MiroTalk RND](https://docs.mirotalk.com/sites/rnd)** | Random peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-rnd/) | [rnd.mirotalk.com](https://rnd.mirotalk.com) |
 | **[MiroTalk C2C](https://docs.mirotalk.com/sites/c2c)** | Cam-to-Cam WebRTC solution | [Docs](https://docs.mirotalk.com/mirotalk-c2c/) | [c2c.mirotalk.com](https://c2c.mirotalk.com) |
 | **[MiroTalk CME](https://docs.mirotalk.com/sites/cme)** | Click-to-call for instant communication | [Docs](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
 | **[MiroTalk BRO](https://docs.mirotalk.com/sites/bro)** | Broadcasting real-time communication | [Docs](https://docs.mirotalk.com/mirotalk-bro/) | [bro.mirotalk.com](https://bro.mirotalk.com) |
@@ -78,7 +80,6 @@ Not sure which solution fits your needs? **[Compare all MiroTalk projects](https
 All projects are **self-hosted and customizable**, available under **AGPLv3 or a commercial license**.
 
 ---
-
 
 ## ❤️ Support MiroTalk (Become a Sponsor)
 
@@ -96,7 +97,6 @@ By sponsoring, you help:
 Every contribution makes a real impact. Thank you for supporting open source!
 
 ---
-
 
 <a id="choose-your-license"></a>
 
@@ -121,6 +121,7 @@ Keep your code private and bring MiroTalk to market under a commercial license.
 **[MiroTalk Ultimate Bundle](https://docs.mirotalk.com/sites/ultimate)** — all MiroTalk applications in one package.
 
 A license ensures:
+
 - ✅ Legal compliance
 - 🔒 Long-term usage rights
 - 💰 **One-time payment** with lifetime updates
@@ -135,7 +136,6 @@ If you plan to resell, redistribute, white-label, or include MiroTalk in your ow
 
 ---
 
-
 ## 📫 Get in Touch
 
 Have questions, need help, or want to collaborate?
@@ -145,22 +145,21 @@ Have questions, need help, or want to collaborate?
 
 ---
 
-
 ⭐ **If MiroTalk helps your project, consider starring the repositories and sharing them with others!**
 
 ---
 
 <p align="center">
-	<sub>PROUDLY SPONSORED BY</sub>
+  <sub>PROUDLY SPONSORED BY</sub>
 </p>
 
 <p align="center">
-	<a href="https://www.recall.ai/?utm_source=github&amp;utm_medium=sponsorship&amp;utm_campaign=mirotalksfu">
-		<img src="https://img.shields.io/badge/Recall.ai-API_for_meeting_recording-4B5563?style=for-the-badge&amp;labelColor=0564FF" alt="Recall.ai — API for meeting recording">
-	</a>
+  <a href="https://www.recall.ai/?utm_source=github&amp;utm_medium=sponsorship&amp;utm_campaign=mirotalksfu">
+    <img src="https://img.shields.io/badge/Recall.ai-API_for_meeting_recording-4B5563?style=for-the-badge&amp;labelColor=0564FF" alt="Recall.ai — API for meeting recording">
+  </a>
 </p>
 
 <p align="center">
-	Record Zoom, Google Meet, Microsoft Teams, and in-person meetings with one API.<br>
-	<a href="https://www.recall.ai/?utm_source=github&amp;utm_medium=sponsorship&amp;utm_campaign=mirotalksfu"><strong>Explore Recall.ai →</strong></a>
+  Record Zoom, Google Meet, Microsoft Teams, and in-person meetings with one API.<br>
+  <a href="https://www.recall.ai/?utm_source=github&amp;utm_medium=sponsorship&amp;utm_campaign=mirotalksfu"><strong>Explore Recall.ai →</strong></a>
 </p>
