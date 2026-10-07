@@ -68,7 +68,7 @@ Not sure which solution fits your needs? **[Compare all MiroTalk projects](https
 | --- | --- | --- | --- |
 | **[MiroTalk SFU](https://docs.mirotalk.com/sites/sfu)** | Scalable video conferencing (Selective Forwarding Unit) | [Docs](https://docs.mirotalk.com/mirotalk-sfu/) | [sfu.mirotalk.com](https://sfu.mirotalk.com) |
 | **[MiroTalk P2P](https://docs.mirotalk.com/sites/p2p)** | Lightweight peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-p2p/) | [p2p.mirotalk.com](https://p2p.mirotalk.com) |
-| **[MiroTalk RND](https://docs.mirotalk.com/sites/rnd)** | Lightweight peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-rnd/) | [rnd.mirotalk.com](https://rnd.mirotalk.com) |
+| **[MiroTalk RND](https://docs.mirotalk.com/sites/rnd)** | Lightweight random peer-to-peer video calls | [Docs](https://docs.mirotalk.com/mirotalk-rnd/) | [rnd.mirotalk.com](https://rnd.mirotalk.com) |
 | **[MiroTalk C2C](https://docs.mirotalk.com/sites/c2c)** | Cam-to-Cam WebRTC solution | [Docs](https://docs.mirotalk.com/mirotalk-c2c/) | [c2c.mirotalk.com](https://c2c.mirotalk.com) |
 | **[MiroTalk CME](https://docs.mirotalk.com/sites/cme)** | Click-to-call for instant communication | [Docs](https://docs.mirotalk.com/mirotalk-cme/) | [cme.mirotalk.com](https://cme.mirotalk.com) |
 | **[MiroTalk BRO](https://docs.mirotalk.com/sites/bro)** | Broadcasting real-time communication | [Docs](https://docs.mirotalk.com/mirotalk-bro/) | [bro.mirotalk.com](https://bro.mirotalk.com) |
