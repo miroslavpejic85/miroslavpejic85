@@ -6,6 +6,7 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/miroslavpejic85?style=flat&logo=githubsponsors&label=Sponsors)](https://github.com/sponsors/miroslavpejic85)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rgGYfeYW3N)
 [![Docs](https://img.shields.io/badge/Docs-docs.mirotalk.com-blue?style=flat&logo=readthedocs)](https://docs.mirotalk.com)
+[![Partners](https://img.shields.io/badge/Partners-Earn_20%25-green?style=flat)](https://partners.mirotalk.com)
 
 Welcome to **[MiroTalk](https://docs.mirotalk.com/sites/projects/)**, your home for open-source, privacy-focused **WebRTC solutions** for real-time communication.
 
@@ -30,6 +31,7 @@ MiroTalk empowers developers, startups, and enterprises to build **secure video 
   - [⚖️ Choose Your License](#️-choose-your-license)
     - [Get a Commercial License](#get-a-commercial-license)
     - [🤝 Reselling \& Distribution](#-reselling--distribution)
+    - [💸 Partner Program](#-partner-program)
   - [📫 Get in Touch](#-get-in-touch)
 
 ---
@@ -133,6 +135,14 @@ A license ensures:
 ### 🤝 Reselling & Distribution
 
 If you plan to resell, redistribute, white-label, or include MiroTalk in your own proprietary product or paid service, you need a **custom license**. We can provide a **dedicated agreement** tailored to your use case. **Contact us** to discuss the requirements and terms.
+
+---
+
+### 💸 Partner Program
+
+Agencies, integrators, resellers, and content creators can earn **20% commission** by referring customers to the **[MiroTalk Ultimate Bundle](https://docs.mirotalk.com/sites/ultimate)**. Free to join, with a 60-day attribution window and automatic Stripe payouts. We handle checkout, licensing, delivery, and support.
+
+👉 **[Become a partner](https://partners.mirotalk.com)**
 
 ---
 
